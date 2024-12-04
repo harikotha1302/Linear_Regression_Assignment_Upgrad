@@ -15,7 +15,11 @@
 - The assignment is to build a model for predicting the number of booking given set of features for ride booking company
 
 ## Conclusions
-- All are answered in the PDF file attached in project please check.
+- Model is build formula: cnt= 0.1584+0.2337 x year+0.4947 x temp-0.1593 x windspeed+0.0508 x aug-0.0439 x jan+0.1081 x sep-0.0452 x sun-0.2839 x Light_snowrain-0.0802 x Misty+0.0946 x summer+0.1258 x winter
+- Train dataset R^2 : 0.836
+- Test dataset R^2 : 0.7921
+- Train dataset Adjusted R^2 : 0.833
+- Test dataset Adjusted R^2 : 0.7811
 
 ## Contact
 Created by harikotha1302 - feel free to contact me!
